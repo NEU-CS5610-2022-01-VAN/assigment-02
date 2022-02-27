@@ -1,4 +1,4 @@
-# assigment-02
+# assignment-02
 
 Create an API using nodejs and express that does CRUD (Create, Read, Update and Delete) operations using Mysql. Put the API in a `api` folder.
 
